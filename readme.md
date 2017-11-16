@@ -44,9 +44,10 @@ La idea es que al final de esta actividad puedas transformar cualquier página e
 - Agrega en `footer.php` el footer del landing page. 
 
 - Agrega en `index.php` todas las secciones que creaste en el HTML, exceptuando al footer.
-> Hint: Para cambiar la dirección de las imágenes, usa el siguiente código como referencia:
->
-	```php 
+
+	-	Hint: Para cambiar la dirección de las imágenes, usa el siguiente código como referencia:
+
+		```php 
 		<img src="<?php echo get_bloginfo('template_url') ?>/img/lorem-ipsum.png "
 	```
 	

@@ -48,7 +48,8 @@ La idea es que al final de esta actividad puedas transformar cualquier página e
 >
 	```php 
 		<img src="<?php echo get_bloginfo('template_url') ?>/img/lorem-ipsum.png "
-
+	```
+	
 ## ¿Tienes tiempo todavía?	
 
 -	Crea las páginas estáticas `inicio`, `equipo`, `blog` y `contacto` dentro de la sección páginas.

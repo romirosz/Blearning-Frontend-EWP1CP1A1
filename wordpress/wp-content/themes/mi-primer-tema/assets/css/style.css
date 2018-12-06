@@ -1,0 +1,97 @@
+body{
+  font-family: 'Abel', sans-serif;
+}
+
+.inicio{
+  background-image: url(../images/bg.jpeg);
+  background-size: 100%;
+  background-position: center;
+  background-position: transparent;
+  background-position: no-repeat;
+
+}
+
+.navbar {
+   background-color: transparent;
+   background: transparent;
+   border-color: transparent;
+}
+
+.navbar li { color: #000 }{
+}
+.navbar-brand img{
+  width: 180px;
+  position: relative;
+  left: 100px;
+  top: -10px;
+}
+.btn{
+  background-color:#295fc1;
+  margin-bottom: 2%;
+  margin-top: 1%;
+}
+
+.btn-green{
+  background-color:#3cbf2d;
+  color: white,
+}
+.subtitulo{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 64px;
+  margin-bottom: 30px;
+  
+}
+
+
+.parrafo1{
+  text-align: center;
+  margin-bottom: 38px;
+  font-size: 16px;
+
+}
+
+.jumbotron h2{
+  text-align: center;
+  font-size: 20px;
+}
+
+.jumbotron p{
+  text-align: center;
+  font-size: 16px;
+}
+
+.texto{
+  text-align: center;
+  color: white;
+  padding: 3%;
+}
+
+.img{
+  width: 30%;
+}
+
+.segundo-p{
+  text-align: center;
+}
+
+.jumbotron{
+  margin-bottom: 86px;
+
+}
+
+.contacto h2{
+  font-size: 20px;
+}
+.contacto{
+  margin-bottom: 70px;
+  font-size: 16px;
+}
+
+.panel-footer{
+  background-color: black;
+  color: white;
+  text-align:center;
+  font-size: 16px;
+}
+
